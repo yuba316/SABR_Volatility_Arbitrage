@@ -13,3 +13,4 @@ Please check *__paper.pdf__* for a full research paper...
 ![](https://github.com/yuba316/SABR_Volatility_Arbitrage/blob/main/figure/9.png)
 ![](https://github.com/yuba316/SABR_Volatility_Arbitrage/blob/main/figure/10.png)
 ![](https://github.com/yuba316/SABR_Volatility_Arbitrage/blob/main/figure/11.png)
+![](https://github.com/yuba316/SABR_Volatility_Arbitrage/blob/main/figure/12.png)

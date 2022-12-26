@@ -1,6 +1,5 @@
 # SABR_Volatility_Arbitrage
 A 50ETF Option Volatility Arbitrage Strategy Based on SABR Model  
-Please check *__paper.pdf__* for a full research paper...  
 
 ![](https://github.com/yuba316/SABR_Volatility_Arbitrage/blob/main/figure/1.png)
 ![](https://github.com/yuba316/SABR_Volatility_Arbitrage/blob/main/figure/2.png)
